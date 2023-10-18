@@ -12,7 +12,7 @@ The text extraction code is located in the `sec.py` file. It uses the `pdfminer`
 To extract text from a PDF, you can use the `sec.py` script as follows:
 
 ```bash
-python sec.py your_pdf_file.pdf
+python sec.py 
 ```
 
 ## Question Generation
